@@ -1,8 +1,8 @@
-# OCR PDF to Audiobook Converter
+# Audiobook Converter
 
 Welcome to the OCR PDF to Audiobook Converter project! 📚🔊
 
-![Watch the Video Demo](https://img.youtube.com/vi/Hrw8k90BiuQ/0.jpg)](https://youtu.be/Hrw8k90BiuQ)
+[![Watch the Video Demo](https://img.youtube.com/vi/Hrw8k90BiuQ/0.jpg)](https://youtu.be/Hrw8k90BiuQ)
 
 ## Overview
 
@@ -26,13 +26,11 @@ Rigorous testing and debugging have been conducted to guarantee the application'
 
 ## How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/OCR-PDF-to-Audiobook.git`
+1. **Clone the Repository**: `git clone https://github.com/TheOneWith-3j/Audiobook-Generator.git`
 
-2. **Install Dependencies**: `pip install -r requirements.txt`
+2. **Run the Application**: `python AUDIOBOOK.py`
 
-3. **Run the Application**: `python main.py`
-
-4. **Explore and Convert**: Follow the intuitive GUI prompts to select your OCR PDF file, customize audiobook settings, and witness the magic happen!
+3. **Explore and Convert**: Follow the intuitive GUI prompts to select your OCR PDF file, customize audiobook settings, and witness the magic happen!
 
 ## Contributions and Issues
 
