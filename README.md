@@ -24,11 +24,9 @@ Rigorous testing ensures flawless functionality, conquering technical challenges
 
 1. **Clone the Repository**: `git clone https://github.com/yourusername/OCR-PDF-to-Audiobook.git`
 
-2. **Install Magic Dependencies**: `pip install -r requirements.txt`
+2. **Run the Wizardry**: `python AUDIOBOOK.py`
 
-3. **Run the Wizardry**: `python main.py`
-
-4. **Magical Conversion**: Dive into the GUI, select your OCR PDF, customize audiobook settings, and let the magic unfold!
+3. **Magical Conversion**: Dive into the GUI, select your OCR PDF, customize audiobook settings, and let the magic unfold!
 
 ## 🌈 Contributions and Issues
 
